@@ -24,7 +24,7 @@ pip install <module name>
   -  Create first project then download the json file and copy the email. The copied email will be use to access the sheet.
   -  Here is the link on How to use Google sheets with python. https://www.youtube.com/watch?v=bu5wXjz2KvU
   -  Change the directory path and name with your downloaded json file
-  -  Change the sheet name and worksheet with your created sheet. Note: It has two worsheets; timelog records and user restriction
+  -  Change the sheet name and worksheet with your created sheet. Note: It has two worksheets; timelog records and user restriction
   -  ![alt text](pic.PNG)
   -  Enjoy :)
 
